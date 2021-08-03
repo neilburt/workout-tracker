@@ -22,7 +22,7 @@ const config = {
   useUnifiedTopology: true,
   useFindAndModify: false }
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout_db', config);
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout', config);
 
 app.listen(PORT, () => {
   console.log(`${PORT} is GO!`);
