@@ -19,7 +19,7 @@ No installation necessary. Just visit the link to the deployed app on Heroku in 
   
 The user can add as many exercises to as many workouts as they need to in a day. Once they've entered at least out workout, the app will track their totals both on the homepage (last workout summary) and through live charts on the dashboard (7-day totals).  
   
-Check out the [deployed app](https://arcane-shelf-58681.herokuapp.com/) at Heroku.  
+Check out the [deployed app](https://afternoon-spire-63323.herokuapp.com/) at Heroku.  
   
 ## Screenshots  
 ![screenshot of Workout Tracker landing page](./public/images/screenshot.jpg)  
